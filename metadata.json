@@ -1,0 +1,5 @@
+{
+  "name": "PlanEat",
+  "description": "A smart meal planner app that helps you organize your weekly meals, generate shopping lists, and reduce food waste using AI suggestions.",
+  "requestFramePermissions": []
+}
